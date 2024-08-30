@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Stuff
+
+- Use Node 16 via `nvm`
+
 ## Available Scripts
 
 In the project directory, you can run:
